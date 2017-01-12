@@ -1,0 +1,41 @@
+# Gaussmeter 1
+# VISA Name: COM3
+# Probe Type: 0
+# Probe Serial Number:           
+# Field Compensation On: TRUE
+# Field Range: 1
+# Field Units: 2
+# Auto Range On: TRUE
+# Moving: FALSE
+# x: 0.000000
+# y: 0.000000
+# z: 0.000000
+#
+# Gaussmeter 2
+# VISA Name: COM4
+# Probe Type: 0
+# Probe Serial Number:           
+# Field Compensation On: TRUE
+# Field Range: 1
+# Field Units: 2
+# Auto Range On: TRUE
+# Moving: FALSE
+# x: 0.000000
+# y: 0.000000
+# z: 0.000000
+#
+# Gaussmeter 3
+# VISA Name: COM9
+# Probe Type: 0
+# Probe Serial Number:           
+# Field Compensation On: TRUE
+# Field Range: 1
+# Field Units: 2
+# Auto Range On: TRUE
+# Moving: FALSE
+# x: 0.000000
+# y: 0.000000
+# z: 0.000000
+#
+time/F:x:y:z:B1:B1range:B2:B2range:B3:B3range:multi:temp1:temp2:temp3:temp4:temp5:temp6:temp7:temp8
+0.004884	0.000000	0.000000	0.000000	0.000000	1.000000	0.000000	1.000000	0.000000	1.000000	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
